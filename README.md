@@ -1,5 +1,7 @@
 # Portal
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/89635da7915a4bc3a6606adf62c254b0)](https://www.codacy.com/app/Suddi/portal?utm_source=github.com&utm_medium=referral&utm_content=suddi/portal&utm_campaign=badger)
+
 Portal game in Elixir following the guide in [How I Start.](https://howistart.org/posts/elixir/1).
 
 ## Usage
